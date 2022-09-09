@@ -1,0 +1,15 @@
+exercise 1: main.py
+splited string and converted into integer and compare
+
+exercise 2: execrcise_2.py
+Flask is used to created webeservice.
+http://127.0.0.1:5000/min/2 to fetch 2 minimum value from list of numbers.
+http://127.0.0.1:5000/max/2 to fetch 2 maximum value from list of numbers.
+http://127.0.0.1:5000/avg to fetch average value from list of numbers.
+http://127.0.0.1:5000/median to fetch median value from list of numbers.
+http://127.0.0.1:5000/percentile/95 to fetch percentile of qth quantile from list of numbers.
+
+exercise 3: exercercise_3.py
+/ping for status code 200
+/tmp/ok check file exist or not if not then 503
+/img returns sojern logo and log the request.
