@@ -10,6 +10,6 @@ http://127.0.0.1:5000/median to fetch median value from list of numbers.
 http://127.0.0.1:5000/percentile/95 to fetch percentile of qth quantile from list of numbers.
 
 exercise 3: exercercise_3.py
-/ping for status code 200
+/ping for status code 200 (note: can see on postman)
 /tmp/ok check file exist or not if not then 503
 /img returns sojern logo and log the request.
